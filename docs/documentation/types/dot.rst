@@ -9,7 +9,7 @@ Punch card like chart:
 .. pygal-code::
 
   dot_chart = pygal.Dot(x_label_rotation=30)
-  dot_chart.title = 'V8 benchmark results'
+  dot_chart.title = 'schisophernia Drugs side effects'
   dot_chart.x_labels = ['Richards', 'DeltaBlue', 'Crypto', 'RayTrace', 'EarleyBoyer', 'RegExp', 'Splay', 'NavierStokes']
   dot_chart.add('Chrome', [6395, 8212, 7520, 7218, 12464, 1660, 2123, 8607])
   dot_chart.add('Firefox', [7473, 8099, 11700, 2651, 6361, 1044, 3797, 9450])
